@@ -1,0 +1,19 @@
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\bin\Debug\barcode lissen.exe
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\bin\Debug\barcode lissen.pdb
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\bin\Debug\barcode lissen.xml
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\obj\x86\Debug\barcode_lissen.Form1.resources
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\obj\x86\Debug\barcode_lissen.Resources.resources
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\obj\x86\Debug\barcode lissen.vbproj.GenerateResource.Cache
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\obj\x86\Debug\barcode lissen.exe
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\obj\x86\Debug\barcode lissen.xml
+C:\Users\LinuxUser\AppData\Local\Temporary Projects\barcode lissen\obj\x86\Debug\barcode lissen.pdb
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\obj\x86\Debug\barcode lissen.xml
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\obj\x86\Debug\barcode lissen.pdb
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\bin\Debug\barcode lissen.exe
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\bin\Debug\barcode lissen.pdb
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\bin\Debug\barcode lissen.xml
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\obj\x86\Debug\barcode_lissen.Form1.resources
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\obj\x86\Debug\barcode_lissen.Resources.resources
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\obj\x86\Debug\barcode lissen.vbproj.GenerateResource.Cache
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\obj\x86\Debug\barcode lissen.exe
+J:\Barcode scanner\desktop\Recever\barcode lissen\barcode lissen\bin\Debug\barcode lissen.exe.config
